@@ -1,0 +1,13 @@
+{
+  "name": "The Hawai'i Pub",
+  "description": "The Hawai'i Pub is a public domain newspaper serving the people of Hawai'i",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breck7/hawaii.pub.git"
+  },
+  "author": "Breck Yunits et al",
+  "homepage": "https://hawaii.pub",
+  "dependencies": {
+    "scroll-cli": "^47.1.2"
+  }
+}
