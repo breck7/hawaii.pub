@@ -1,0 +1,5 @@
+importOnly
+git https://github.com/breck7/hawaii.pub
+viewSourceBaseUrl https://github.com/breck7/hawaii.pub/blob/main
+email tips@hawaii.pub
+baseUrl https://hawaii.pub/

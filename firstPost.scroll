@@ -1,9 +1,7 @@
 import header.scroll
-scrollHeader
-
 title Aloha Hawai'i
 date 12-13-2022
-
+groups stories index
 startColumns 2
 
 * _The Hawai'i Pub is a new public domain newspaper serving the people of Hawai'i._
@@ -29,5 +27,5 @@ quote
  Mine and publish the truth for the people.
  - The motto of The Hawai'i Pub
 
-groups index
-scrollFooter
+endColumns
+import footer.scroll
