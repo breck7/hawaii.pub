@@ -1,0 +1,125 @@
+import header.scroll
+
+title The Hawai'i Pub - Saturday, January 7th, 2023
+replace TODAY_NAME Friday
+replace TODAYS_DATE 1-7-2023
+replace YESTERDAYS_DATE 1-6-2023
+
+date TODAYS_DATE
+groups daily index
+
+startColumns 4
+
+* _The print at home daily newspaper for residents of Honolulu, Hawai'i. <span class="doNotPrint">PDF version.</span>_
+ link TODAYS_DATE.pdf PDF version
+
+endSnippet
+
+## Jobs
+
+* 1,110 new jobs on Indeed.com including Preschool Aide $14hr and Package Handler $17hr
+ https://www.indeed.com/jobs?q=&l=Honolulu%2C+HI&fromage=1 Indeed.com
+* 257 new jobs on craigslist including Groundskeeper $20hr and Janitor $17hr
+ https://honolulu.craigslist.org/search/jjj craigslist
+
+## Housing
+
+* 56 new listings on HotPads including: $2,300 for 2BR in Salt Lake
+ https://hotpads.com/honolulu-hi/apartments-for-rent?maxCreated=24&page=1 HotPads
+
+## Restaurants
+
+* Google Places lists 21 restaurants with 4.5+ rating including: EARL (Sandwiches), Haleiwa Joes Seafood Grill and Roy's Hawaii Kai
+ https://www.google.com/search?q=oahu%20top%20restaurants&tbm=lcl&sxsrf=AJOqlzXPpAGPj6tkwIh0wkytjUG7yMw5Kg%3A1673071194733&ei=Wgq5Y4a4LJb7sAek_7uADA&ved=2ahUKEwie3Mr-47T8AhUEC-wKHfxqCocQwywoAXoECAMQBw&uact=5&oq=oahu+top+restaurants&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAMyBwgAEIAEEA0yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIICAAQCBAeEAoyBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjoECCMQJzoGCAAQBxAeOggIABAIEAcQHjoKCAAQCBAHEB4QClCFA1i_BWC4CGgAcAB4AIABYogBvAOSAQE2mAEAoAEBwAEB&sclient=gws-wiz-local&rlfi=hd:;si:&tbs=lrf:!1m5!1u2!2m2!2m1!2e8!4e2!1m4!1u3!2m2!3m1!1e1!1m4!1u5!2m2!5m1!1sgcid_3american_1restaurant!1m4!1u5!2m2!5m1!1sgcid_3seafood_1restaurant!1m4!1u2!2m2!2m1!1e1!1m4!1u1!2m2!1m1!1e1!1m4!1u1!2m2!1m1!1e2!1m4!1u22!2m2!21m1!1e1!2m1!1e5!2m1!1e1!2m1!1e3!2m4!1e2!5m2!2m1!2e9!3sCg8SDXJhdGluZ19maWx0ZXIgASoCVVM,lf:1,lf_ui:9&rlst=f restaurants with 4.5+ rating
+ https://earlhawaii.com/ EARL
+ https://www.haleiwajoes.com/ Haleiwa Joes Seafood Grill
+ https://www.royyamaguchi.com/roys-hawaiikai Roy's Hawaii Kai
+
+## Airport @DOTHawaii
+ https://twitter.com/DOTHawaii @DOTHawaii
+
+* 292 planes arriving into HNL today
+ https://airports.hawaii.gov/hnl/flights/ arriving
+
+## Governor's Office @GovHawaii
+ https://governor.hawaii.gov/ Governor's Office
+ https://twitter.com/GovHawaii @GovHawaii
+
+## Mayor's Office @MayorRickHNL
+ https://www.honolulu.gov/mayor/ Mayor's Office
+ https://twitter.com/MayorRickHNL @MayorRickHNL
+
+## City Council @hnlcitycouncil
+ https://www.honolulucitycouncil.org/ City Council
+ https://twitter.com/hnlcitycouncil @hnlcitycouncil
+
+* Budget Meeting - January 10, 2023 - 09:00 AM
+ https://www.honolulucitycouncil.org/meetings 
+
+## Hawai'i Department of Education @HIDOE808
+ https://www.hawaiipublicschools.org/ Hawai'i Department of Education
+ https://twitter.com/HIDOE808 @HIDOE808
+
+* School resumed this week
+* No school January 16th for MLK day
+
+## Libraries @hsplshigov
+ https://www.librarieshawaii.org/ Libraries
+ https://twitter.com/hsplshigov @hsplshigov
+
+* There are 10 events this week in Oahu on the Library calendar
+ https://www.librarieshawaii.org/events/list/?tribe_eventisland=79&hide_subsequent_recurrences=1 Library calendar
+
+## Subreddits
+
+* There were 2 new posts yesterday in the Honolulu Subreddit and 13 new posts in the Hawaii Subreddit including Video: Hawaii’s Kilauea volcano erupts again (316 upvotes).
+ https://www.reddit.com/r/Honolulu/new/ Honolulu Subreddit
+ https://www.reddit.com/r/Hawaii/new/ Hawaii Subreddit
+ https://www.reddit.com/r/Hawaii/comments/104ya3n/video_hawaiis_kilauea_volcano_erupts_again/ Video: Hawaii’s Kilauea volcano erupts again
+
+## Police @honolulupolice
+ https://www.honolulupd.org/ Police
+ https://twitter.com/honolulupolice @honolulupolice
+
+* 17 arrests in the YESTERDAYS_DATE arrest logs.
+ https://www.honolulupd.org/information/arrest-logs/ arrest logs
+
+## Courts
+ https://www.courts.state.hi.us/
+
+* 01/12/2023 - Oral Argument Before the Hawaii Supreme Court, 2 p.m.
+ https://calendar.ehawaii.gov/calendar/meeting/69928/details.html
+
+## Fire Department
+ https://fire.honolulu.gov/ Fire Department
+
+## Weather
+ https://forecast.weather.gov/MapClick.php?lat=33.76672000000008&lon=-118.19239999999996#.Y6_To-zMIbk
+
+- ☀️ Today: Mostly sunny, with a high near 81. East northeast wind 8 to 13 mph.
+- ✨ Tonight: Mostly clear, with a low around 66. East northeast wind 5 to 9 mph becoming light northeast.
+- ☀️ Tomorrow: Sunny, with a high near 81. East wind 5 to 10 mph.
+- ✨ Tomorrow Mostly clear, with a low around 66. East northeast wind 7 to 10 mph.
+
+html
+ <div style="break-inside: avoid-column;">
+
+## Photo of the day
+
+image kilauea.jpeg
+ caption USGS Volcanoes is broadcasting a live stream of the Kilauea eruption.
+  https://twitter.com/USGSVolcanoes/status/1611514404616421377 live stream
+
+html
+ </div>
+
+## Have a great TODAY_NAME!
+
+author https://github.com/breck7 Breck Yunits - Editor
+
+* _Email subscribe@hawaii.pub to receive these PDFs in your email_
+
+* <span class="printOnly">On the web: https://hawaii.pub/TODAYS_DATE.html. </span>
+
+endColumns
+import footer.scroll
