@@ -13,19 +13,13 @@ startColumns 4
 * _The print at home daily newspaper for residents of Honolulu, Hawai'i. <span class="doNotPrint">PDF version.</span>_
  link TODAYS_DATE.pdf PDF version
 
+## Map of the day
+
+image surfMap1982.jpeg
+ caption A surf map of Hawai'i from 1982.
+  https://www.geographicus.com/P/AntiqueMap/hawaiisurfing-wright-1982
+
 endSnippet
-
-## Surf Report
- https://www.weather.gov/hfo/SRF
-
-* A new NW (320 degrees) swell has arrived and gradually building through Monday. Surf along exposed north and west-facing shores may reach low-end High Surf Advisory levels Monday into Tuesday.
-
-spaceTable
- Shore AM(ft) PM(ft)
- North 5-7 6-8
- West 3-5 4-6
- South 1-3 1-3
- East 1-3 1-3
 
 ## Word of the day
 
@@ -121,17 +115,17 @@ spaceTable
 - 🌦 Tomorrow: A 50 percent chance of rain. Cloudy, with a high near 63. South southeast wind 10 to 15 mph.
 - 🌧 Tomorrow night: Rain. Low around 56. Breezy, with a south southeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 80%.
 
-html
- <div style="break-inside: avoid-column;">
+## Surf Report
+ https://www.weather.gov/hfo/SRF
 
-## Map of the day
+* A new NW (320 degrees) swell has arrived and gradually building through Monday. Surf along exposed north and west-facing shores may reach low-end High Surf Advisory levels Monday into Tuesday.
 
-image surfMap1982.jpeg
- caption A surf map of Hawai'i from 1982.
-  https://www.geographicus.com/P/AntiqueMap/hawaiisurfing-wright-1982
-
-html
- </div>
+spaceTable
+ Shore AM(ft) PM(ft)
+ North 5-7 6-8
+ West 3-5 4-6
+ South 1-3 1-3
+ East 1-3 1-3
 
 ## Have a great TODAY_NAME!
 

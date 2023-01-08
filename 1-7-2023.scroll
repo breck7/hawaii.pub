@@ -13,6 +13,12 @@ startColumns 4
 * _The print at home daily newspaper for residents of Honolulu, Hawai'i. <span class="doNotPrint">PDF version.</span>_
  link TODAYS_DATE.pdf PDF version
 
+## Photo of the day
+
+image kilauea.jpeg
+ caption USGS Volcanoes is broadcasting a live stream of the Kilauea eruption.
+  https://twitter.com/USGSVolcanoes/status/1611514404616421377 live stream
+
 endSnippet
 
 ## Jobs
@@ -103,12 +109,6 @@ endSnippet
 
 html
  <div style="break-inside: avoid-column;">
-
-## Photo of the day
-
-image kilauea.jpeg
- caption USGS Volcanoes is broadcasting a live stream of the Kilauea eruption.
-  https://twitter.com/USGSVolcanoes/status/1611514404616421377 live stream
 
 html
  </div>
