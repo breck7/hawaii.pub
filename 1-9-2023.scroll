@@ -1,0 +1,124 @@
+import header.scroll
+
+replace TODAY_NAME Monday
+replace TODAYS_DATE 1-9-2023
+replace YESTERDAYS_DATE 1-8-2023
+title The Hawai'i Pub - TODAY_NAME, January 9th, 2023
+
+date TODAYS_DATE
+groups daily index
+
+* <center> _The print at home daily newspaper for residents of Honolulu, Hawai'i. <span class="doNotPrint">PDF version.</span>_ </center>
+ link TODAYS_DATE.pdf PDF version
+
+startColumns 4
+
+## Chart of the day
+image flightsFromJapan.jpg
+ caption Flights from Japan are back to pre-pandemic levels (source).
+  https://dbedt.hawaii.gov/visitor/daily-passenger-counts/ source
+
+endSnippet
+
+## Word of the day
+* Mioioi - _verb_ - to see with eyes nearly closed; to wrinkle up the eylids, as in looking at a dazzling light.
+
+## University News
+- Shidler student leadership center unveiled, funded by $250K gift
+ https://www.hawaii.edu/news/2023/01/06/shidler-student-leadership-center/
+
+## Jobs
+* 264 new jobs on Indeed.com including Kitchen Assistant $25hr and Front Desk Agent $21hr
+ https://www.indeed.com/jobs?q=&l=Honolulu%2C+HI&fromage=1 Indeed.com
+* 53 new jobs on craigslist including Mother's Helper $27hr
+ https://honolulu.craigslist.org/search/jjj craigslist
+
+## Housing
+* 14 new listings on HotPads including: $3,000 for 3BR in Chinatown
+ https://hotpads.com/honolulu-hi/apartments-for-rent?maxCreated=24&page=1 HotPads
+
+## Restaurants
+* Google Places lists 21 restaurants with 4.5+ rating including: Sasabune Hawaii (Sushi), The Signature Prime Steak & Seafood and Highway Inn (Hawaiian)
+ https://www.google.com/search?q=oahu%20top%20restaurants&tbm=lcl&sxsrf=AJOqlzXPpAGPj6tkwIh0wkytjUG7yMw5Kg%3A1673071194733&ei=Wgq5Y4a4LJb7sAek_7uADA&ved=2ahUKEwie3Mr-47T8AhUEC-wKHfxqCocQwywoAXoECAMQBw&uact=5&oq=oahu+top+restaurants&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAMyBwgAEIAEEA0yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIICAAQCBAeEAoyBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjoECCMQJzoGCAAQBxAeOggIABAIEAcQHjoKCAAQCBAHEB4QClCFA1i_BWC4CGgAcAB4AIABYogBvAOSAQE2mAEAoAEBwAEB&sclient=gws-wiz-local&rlfi=hd:;si:&tbs=lrf:!1m5!1u2!2m2!2m1!2e8!4e2!1m4!1u3!2m2!3m1!1e1!1m4!1u5!2m2!5m1!1sgcid_3american_1restaurant!1m4!1u5!2m2!5m1!1sgcid_3seafood_1restaurant!1m4!1u2!2m2!2m1!1e1!1m4!1u1!2m2!1m1!1e1!1m4!1u1!2m2!1m1!1e2!1m4!1u22!2m2!21m1!1e1!2m1!1e5!2m1!1e1!2m1!1e3!2m4!1e2!5m2!2m1!2e9!3sCg8SDXJhdGluZ19maWx0ZXIgASoCVVM,lf:1,lf_ui:9&rlst=f restaurants with 4.5+ rating
+ https://sasabuneh.com/ Sasabune Hawaii
+ https://www.signatureprimesteak.com/ The Signature Prime Steak & Seafood
+ https://www.myhighwayinn.com/ Highway Inn
+
+## Airport @DOTHawaii
+ https://twitter.com/DOTHawaii @DOTHawaii
+* 222 planes arriving into HNL today
+ http://72.253.68.19/hnlflights/arrivals.asp arriving
+
+## Governor's Office @GovHawaii
+ https://governor.hawaii.gov/ Governor's Office
+ https://twitter.com/GovHawaii @GovHawaii
+
+## Mayor's Office @MayorRickHNL
+ https://www.honolulu.gov/mayor/ Mayor's Office
+ https://twitter.com/MayorRickHNL @MayorRickHNL
+
+## City Council @hnlcitycouncil
+ https://www.honolulucitycouncil.org/ City Council
+ https://twitter.com/hnlcitycouncil @hnlcitycouncil
+* Budget Meeting - January 10, 2023 - 09:00 AM
+ https://www.honolulucitycouncil.org/meetings 
+
+## Hawai'i Department of Education @HIDOE808
+ https://www.hawaiipublicschools.org/ Hawai'i Department of Education
+ https://twitter.com/HIDOE808 @HIDOE808
+* School resumed this week
+* No school January 16th for MLK day
+
+## Libraries @hsplshigov
+ https://www.librarieshawaii.org/ Libraries
+ https://twitter.com/hsplshigov @hsplshigov
+* There are 10 events this week in Oahu on the Library calendar
+ https://www.librarieshawaii.org/events/list/?tribe_eventisland=79&hide_subsequent_recurrences=1 Library calendar
+
+## Subreddits - Oahu - Honolulu
+ https://www.reddit.com/r/Honolulu/new/ Honolulu
+ https://www.reddit.com/r/Honolulu/new/ Oahu
+* There were 5 new posts yesterday including Any 25 or 50 meter pools open late?. (6 upvotes).
+ https://www.reddit.com/r/Oahu/comments/1070ipk/any_25_or_50_meter_pools_open_late/ including
+
+## Police @honolulupolice
+ https://www.honolulupd.org/ Police
+ https://twitter.com/honolulupolice @honolulupolice
+* 19 arrests in the YESTERDAYS_DATE arrest logs.
+ https://www.honolulupd.org/information/arrest-logs/ arrest logs
+
+## Courts
+ https://www.courts.state.hi.us/
+* 01/12/2023 - Oral Argument Before the Hawaii Supreme Court, 2 p.m.
+ https://calendar.ehawaii.gov/calendar/meeting/69928/details.html
+
+## Fire Department
+ https://fire.honolulu.gov/ Fire Department
+
+## Weather
+ https://forecast.weather.gov/MapClick.php?lat=21.3049&lon=-157.8579#.Y7uebezMIdo
+- ☀️ Today: Sunny, with a high near 82. Calm wind becoming south southwest around 6 mph.
+- ✨ Tonight: Mostly clear, with a low around 63. Light and variable wind.
+- ☀️ Tomorrow: Sunny, with a high near 82. Calm wind becoming north around 6 mph in the afternoon.
+- 🌧 Tomorrow Night: Scattered showers after midnight. Mostly clear, with a low around 66. North wind 6 to 8 mph. Chance of precipitation is 30%. New precipitation amounts of less than a tenth of an inch possible.
+
+## Surf Report
+ https://www.weather.gov/hfo/SRF
+* A NW (320 degrees) swell will peak today and hold through tonight.
+
+spaceTable
+ Shore AM(ft) PM(ft)
+ North 10-14 10-14
+ West 7-10 7-10
+ South 1-3 1-3
+ East 1-3 1-3
+
+## Have a great TODAY_NAME!
+author https://github.com/breck7 Breck Yunits - Editor
+
+endColumns
+
+* _Email subscribe@hawaii.pub to receive these PDFs in your email_ <span class="printOnly">On the web: hawaii.pub/TODAYS_DATE.html. </span>
+ https://hawaii.pub/TODAYS_DATE.html hawaii.pub/TODAYS_DATE.html
+
+import footer.scroll
