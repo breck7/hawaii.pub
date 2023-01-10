@@ -1,0 +1,148 @@
+import header.scroll
+
+replace TODAY_NAME Tuesday
+replace TODAYS_DATE 1-10-2023
+replace YESTERDAYS_DATE 1-9-2023
+title The Hawai'i Pub - TODAY_NAME, January 10th, 2023
+
+date TODAYS_DATE
+groups daily index
+
+* <center> _The print at home daily newspaper for residents of Honolulu, Hawai'i. <span class="doNotPrint">PDF version.</span>_ </center>
+ link TODAYS_DATE.pdf PDF version
+
+startColumns 4
+
+## Table of the day
+* Top 20 newspapers in Hawaii (from MuckRack.com)
+ https://muckrack.com/rankings/top-20-hawaii-newspapers MuckRack.com
+pipeTable
+ Rank|Outlet|MonthlyVisits|Location
+ 1|Pacific Business News|11,182,426|Honolulu, HI
+ 2|Honolulu Star-Advertiser|2,669,533|Honolulu, HI
+ 3|Honolulu Civil Beat|848,423|Honolulu, HI
+ 4|Maui News|263,366|Wailuku, HI
+ 5|Garden Island Hawaii|248,639|Lihue, HI
+ 6|Hawaii Tribune-Herald|193,673|Hilo, HI
+ 7|West Hawaii Today|117,343|Kailua, HI
+ 8|Molokai Dispatch|29,544|Hawaii
+ 9|MidWeek|25,765|Honolulu, HI
+ 10|Hawaii Reporter|25,151|Honolulu, HI
+ 11|Ka Leo o Hawai‘i|20,407|Honolulu, HI
+ 12|Lahaina News|13,403|Hawaii
+ 13|The Ka 'Ohana (Windward Community College) (Kane'ohe, Hawaii)|12,395|Hawaii
+ 14|Hawaii Herald|12,079|Honolulu, HI
+ 15|Ka Wai Ola News|11,810|Honolulu, HI
+ 16|Maui Time|11,339|Wailuku, HI
+ 17|Hawaii Catholic Herald|10,289|Honolulu, HI
+ 18|Hawaii 24/7|6,460|Hilo, HI
+ 19|For Kauai Online|3,345|Kauai, HI
+ 20|The Filipino Chronicle|1,897|Hawaii
+
+
+endSnippet
+
+## Word of the day
+ hoverNote Word of the day
+  Source: A Dictionary of the Hawaiian Language by Lorrin Andrews (1922)
+* *Okolo* - adj. slippery; necessitating stooping or crawling because of slipperiness.
+
+## University News
+ https://www.hawaii.edu/news/
+- New UH Cancer Center director shares vision for future
+ https://www.hawaii.edu/news/2023/01/09/ueno-shares-uh-cancer-center-vision/
+
+## Jobs
+* 488 new jobs on Indeed.com including Chick-fil-A Back of House $17hr and OR Travel Nurse $3,852wk
+ https://www.indeed.com/jobs?q=&l=Honolulu%2C+HI&fromage=1 Indeed.com
+* 214 new jobs on craigslist including Maverick Helicopters Front Desk $19hr+
+ https://honolulu.craigslist.org/search/jjj craigslist
+
+## Housing
+* 47 new rental listings on HotPads including: $7,500 for 2BR in Diamond Head
+ https://hotpads.com/honolulu-hi/apartments-for-rent?maxCreated=24&page=1 HotPads
+
+## Restaurants
+* Google lists 21 restaurants with 4.5+ rating including: Orchids and Senia (New American)
+ https://www.google.com/search?q=oahu%20top%20restaurants&tbm=lcl&sxsrf=AJOqlzXPpAGPj6tkwIh0wkytjUG7yMw5Kg%3A1673071194733&ei=Wgq5Y4a4LJb7sAek_7uADA&ved=2ahUKEwie3Mr-47T8AhUEC-wKHfxqCocQwywoAXoECAMQBw&uact=5&oq=oahu+top+restaurants&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAMyBwgAEIAEEA0yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIICAAQCBAeEAoyBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjoECCMQJzoGCAAQBxAeOggIABAIEAcQHjoKCAAQCBAHEB4QClCFA1i_BWC4CGgAcAB4AIABYogBvAOSAQE2mAEAoAEBwAEB&sclient=gws-wiz-local&rlfi=hd:;si:&tbs=lrf:!1m5!1u2!2m2!2m1!2e8!4e2!1m4!1u3!2m2!3m1!1e1!1m4!1u5!2m2!5m1!1sgcid_3american_1restaurant!1m4!1u5!2m2!5m1!1sgcid_3seafood_1restaurant!1m4!1u2!2m2!2m1!1e1!1m4!1u1!2m2!1m1!1e1!1m4!1u1!2m2!1m1!1e2!1m4!1u22!2m2!21m1!1e1!2m1!1e5!2m1!1e1!2m1!1e3!2m4!1e2!5m2!2m1!2e9!3sCg8SDXJhdGluZ19maWx0ZXIgASoCVVM,lf:1,lf_ui:9&rlst=f restaurants with 4.5+ rating
+ https://www.halekulani.com/dining/orchids/ Orchids
+ https://www.restaurantsenia.com/ Senia
+
+## Airport @DOTHawaii
+ https://twitter.com/DOTHawaii @DOTHawaii
+* 215 planes arriving into HNL today
+ http://72.253.68.19/hnlflights/arrivals.asp arriving
+
+comment ## Governor's Office @GovHawaii
+ https://governor.hawaii.gov/ Governor's Office
+ https://twitter.com/GovHawaii @GovHawaii
+
+comment ## Mayor's Office @MayorRickHNL
+ https://www.honolulu.gov/mayor/ Mayor's Office
+ https://twitter.com/MayorRickHNL @MayorRickHNL
+
+## City Council @hnlcitycouncil
+ https://www.honolulucitycouncil.org/ City Council
+ https://twitter.com/hnlcitycouncil @hnlcitycouncil
+* Budget Meeting - *Today* - January 10, 2023 - 09:00 AM
+ https://www.honolulucitycouncil.org/meetings 
+
+## Hawai'i Department of Education @HIDOE808
+ https://www.hawaiipublicschools.org/ Hawai'i Department of Education
+ https://twitter.com/HIDOE808 @HIDOE808
+* School resumed this week
+* No school January 16th for MLK day
+
+## Libraries @hsplshigov
+ https://www.librarieshawaii.org/ Libraries
+ https://twitter.com/hsplshigov @hsplshigov
+* There are 10 events this week in Oahu on the Library calendar
+ https://www.librarieshawaii.org/events/list/?tribe_eventisland=79&hide_subsequent_recurrences=1 Library calendar
+
+## Subreddits - Oahu - Honolulu
+ https://www.reddit.com/r/Honolulu/new/ Honolulu
+ https://www.reddit.com/r/Oahu/new/ Oahu
+* There were 15 new posts yesterday including HPU is now paying people to help clean the ocean. Eligible commercial fishers can get anywhere between $1 to $3 per dry pound of lost and abandoned fishing gear found at sea. (7 upvotes).
+ https://www.reddit.com/r/Oahu/comments/107ybf6/hpu_is_now_paying_people_to_help_clean_the_ocean/ HPU is now paying people to help clean the ocean. Eligible commercial fishers can get anywhere between $1 to $3 per dry pound of lost and abandoned fishing gear found at sea.
+
+## Police @honolulupolice
+ https://www.honolulupd.org/ Police
+ https://twitter.com/honolulupolice @honolulupolice
+* 18 arrests in the YESTERDAYS_DATE arrest logs.
+ https://www.honolulupd.org/information/arrest-logs/ arrest logs
+
+## Courts
+ https://www.courts.state.hi.us/
+* 01/12/2023 - Oral Argument Before the Hawaii Supreme Court, 2 p.m.
+ https://calendar.ehawaii.gov/calendar/meeting/69928/details.html
+
+comment ## Fire Department
+ https://fire.honolulu.gov/ Fire Department
+
+## Weather
+ https://forecast.weather.gov/MapClick.php?lat=21.3049&lon=-157.8579#.Y7uebezMIdo
+- ☀️ Today: Sunny, with a high near 82. Light and variable wind becoming west southwest 5 to 7 mph in the morning.
+- 🌧 Tonight: Scattered showers after 1am. Mostly clear, with a low around 66. South wind 5 to 7 mph becoming light and variable after midnight. Chance of precipitation is 30%. New precipitation amounts of less than a tenth of an inch possible.
+- 🌦 Tomorrow: Scattered showers, mainly before 1pm. Mostly sunny, with a high near 80. Breezy, with a light north wind becoming north northeast 12017 mph in morning. Winds could gust as high as 23mph. Chance of precipitation 30%.
+- 🌧 Tomorrow Night: Isolated showers before 7pm. Mostly cloudy, with a low around 65. Breezy, with a northeast wind 13 to 16 mph, with gusts as high as 21 mph. Chance of precipitation is 20%.
+
+## Surf Report
+ https://www.weather.gov/hfo/SRF
+* Surf along exposed north and west facing shores will hold steady below advisory levels today, then rapidly build and exceed warning levels late tonight through Wednesday as the largest swell of the season arrives.
+
+spaceTable
+ Shore AM(ft) PM(ft)
+ North 8-12 8-12
+ West 6-8 6-8
+ South 1-3 1-3
+ East 1-3 1-3
+
+## Have a great TODAY_NAME!
+author https://github.com/breck7 Breck Yunits - Editor
+
+endColumns
+
+* _Email subscribe@hawaii.pub to receive these PDFs in your email_ <span class="printOnly">On the web: hawaii.pub/TODAYS_DATE.html. </span>
+ https://hawaii.pub/TODAYS_DATE.html hawaii.pub/TODAYS_DATE.html
+
+import footer.scroll
