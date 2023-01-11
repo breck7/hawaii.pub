@@ -1,0 +1,128 @@
+import header.scroll
+
+replace TODAY_NAME Wednesday
+replace TODAYS_DATE 1-11-2023
+replace YESTERDAYS_DATE 1-10-2023
+title The Hawai'i Pub - TODAY_NAME, January 11th, 2023
+
+date TODAYS_DATE
+groups daily index
+
+* <center> _The print at home daily newspaper for residents of Honolulu, Hawai'i. <span class="doNotPrint">PDF version.</span>_ </center>
+ link TODAYS_DATE.pdf PDF version
+
+startColumns 4
+
+## Map of the day
+image vog.jpg
+ caption Today's Vog Map from UH Manoa shows improving vog conditions.
+  http://weather.hawaii.edu/vmap/new/ Vog Map
+
+endSnippet
+
+## Word of the day
+ hoverNote Word of the day
+  Source: A Dictionary of the Hawaiian Language by Lorrin Andrews (1922)
+* *Weli* - v. To branch out, as the roots of a tree; to tak root, as a tree; to have many roots.
+
+## University News
+ https://www.hawaii.edu/news/
+- Rare unaltered asteroid sample provides clues to early solar system
+ https://www.hawaii.edu/news/2023/01/10/ryugu-asteroid-early-solar-system/
+
+## Jobs
+* 656 new jobs on Indeed.com including Warehouse Associate $19hr and Dental Assistant $17hr
+ https://www.indeed.com/jobs?q=&l=Honolulu%2C+HI&fromage=1 Indeed.com
+* 203 new jobs on craigslist including Receptionist $22hr
+ https://honolulu.craigslist.org/search/jjj craigslist
+
+## Housing
+* 47 new rental listings on HotPads including: $16,000 for 5BR in Waialae-Kahala
+ https://hotpads.com/honolulu-hi/apartments-for-rent?maxCreated=24&page=1 HotPads
+
+## Restaurants
+* Google lists 21 restaurants with 4.5+ rating including: La Mer (French) and Uncle Bo's Pupu Bar & Grill
+ https://www.google.com/search?q=oahu%20top%20restaurants&tbm=lcl&sxsrf=AJOqlzXPpAGPj6tkwIh0wkytjUG7yMw5Kg%3A1673071194733&ei=Wgq5Y4a4LJb7sAek_7uADA&ved=2ahUKEwie3Mr-47T8AhUEC-wKHfxqCocQwywoAXoECAMQBw&uact=5&oq=oahu+top+restaurants&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAMyBwgAEIAEEA0yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIICAAQCBAeEAoyBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjoECCMQJzoGCAAQBxAeOggIABAIEAcQHjoKCAAQCBAHEB4QClCFA1i_BWC4CGgAcAB4AIABYogBvAOSAQE2mAEAoAEBwAEB&sclient=gws-wiz-local&rlfi=hd:;si:&tbs=lrf:!1m5!1u2!2m2!2m1!2e8!4e2!1m4!1u3!2m2!3m1!1e1!1m4!1u5!2m2!5m1!1sgcid_3american_1restaurant!1m4!1u5!2m2!5m1!1sgcid_3seafood_1restaurant!1m4!1u2!2m2!2m1!1e1!1m4!1u1!2m2!1m1!1e1!1m4!1u1!2m2!1m1!1e2!1m4!1u22!2m2!21m1!1e1!2m1!1e5!2m1!1e1!2m1!1e3!2m4!1e2!5m2!2m1!2e9!3sCg8SDXJhdGluZ19maWx0ZXIgASoCVVM,lf:1,lf_ui:9&rlst=f restaurants with 4.5+ rating
+ https://www.halekulani.com/dining/la-mer/ La Mer
+ https://www.unclebosrestaurant.com/ Uncle Bo's Pupu Bar & Grill
+
+## Airport @DOTHawaii
+ https://twitter.com/DOTHawaii @DOTHawaii
+* 200+ planes arriving into HNL today
+ http://72.253.68.19/hnlflights/arrivals.asp arriving
+
+comment ## Governor's Office @GovHawaii
+ https://governor.hawaii.gov/ Governor's Office
+ https://twitter.com/GovHawaii @GovHawaii
+
+comment ## Mayor's Office @MayorRickHNL
+ https://www.honolulu.gov/mayor/ Mayor's Office
+ https://twitter.com/MayorRickHNL @MayorRickHNL
+
+## City Council Meetings @hnlcitycouncil
+ https://www.honolulucitycouncil.org/ City Council
+ https://twitter.com/hnlcitycouncil @hnlcitycouncil
+ https://www.honolulucitycouncil.org/meetings Meetings
+- Zoning - January 11, 2023 - 09:00 AM Agenda  
+- Parks Enterprise - January 11, 2023 - 01:00 PM Agenda  
+- Planning and the Economy - January 12, 2023 - 09:00 AM Agenda  
+- Public Safety - January 12, 2023 - 01:00 PM
+
+## Hawai'i Department of Education @HIDOE808
+ https://www.hawaiipublicschools.org/ Hawai'i Department of Education
+ https://twitter.com/HIDOE808 @HIDOE808
+* No school January 16th for MLK day
+
+## Libraries @hsplshigov
+ https://www.librarieshawaii.org/ Libraries
+ https://twitter.com/hsplshigov @hsplshigov
+* There are 10 events this week in Oahu on the Library calendar
+ https://www.librarieshawaii.org/events/list/?tribe_eventisland=79&hide_subsequent_recurrences=1 Library calendar
+
+## Subreddits - Oahu - Honolulu
+ https://www.reddit.com/r/Honolulu/new/ Honolulu
+ https://www.reddit.com/r/Oahu/new/ Oahu
+* There were 9 new posts yesterday including Parking for Eddie Aikau at Waimea (9 upvotes).
+ https://www.reddit.com/r/Oahu/comments/108nkoq/parking_for_eddie_aikau_at_waimea/ Parking for Eddie Aikau at Waimea
+
+## Police @honolulupolice
+ https://www.honolulupd.org/ Police
+ https://twitter.com/honolulupolice @honolulupolice
+* 23 arrests in the YESTERDAYS_DATE arrest logs.
+ https://www.honolulupd.org/information/arrest-logs/ arrest logs
+
+## Courts
+ https://www.courts.state.hi.us/
+* 01/12/2023 - Oral Argument Before the Hawaii Supreme Court, 2 p.m.
+ https://calendar.ehawaii.gov/calendar/meeting/69928/details.html
+
+comment ## Fire Department
+ https://fire.honolulu.gov/ Fire Department
+
+## Weather
+ https://forecast.weather.gov/MapClick.php?lat=21.3049&lon=-157.8579#.Y7uebezMIdo
+- 🌦 Today: Isolated showers. Mostly sunny, with a high near 80. Breezy, with a north northeast wind 9 to 17 mph, with gusts as high as 24 mph. Chance of precipitation is 20%.
+- 🌧 Tonight: Isolated showers before 7pm. Mostly clear, with a low around 65. Breezy, with a northeast wind 11 to 16 mph, with gusts as high as 22 mph. Chance of precipitation is 20%.
+- ☀️ Tomorrow: Sunny, with a high near 79. East northeast wind around 11 mph.
+- ✨ Tomorrow Night: Mostly clear, with a low around 64. East wind 6 to 10 mph.
+
+## 🏄🏄🏄 Surf Report 🏄🏄🏄
+ https://www.weather.gov/hfo/SRF
+* Surf along exposed north and west facing shores will exceed warning levels today as the largest swell of the season builds down the island chain.
+
+spaceTable
+ Shore AM(ft) PM(ft)
+ North 25-35 40-50
+ West 20-25 25-35
+ South 1-3 1-3
+ East 2-4 2-4
+
+## Have a great TODAY_NAME!
+author https://github.com/breck7 Breck Yunits - Editor
+
+endColumns
+
+* _Email subscribe@hawaii.pub to receive these PDFs in your email_ <span class="printOnly">On the web: hawaii.pub/TODAYS_DATE.html. </span>
+ https://hawaii.pub/TODAYS_DATE.html hawaii.pub/TODAYS_DATE.html
+
+import footer.scroll
