@@ -12,6 +12,6 @@
   "author": "Breck Yunits et al",
   "homepage": "https://hawaii.pub",
   "dependencies": {
-    "scroll-cli": "^52.0.0"
+    "scroll-cli": "^52.1.1"
   }
 }

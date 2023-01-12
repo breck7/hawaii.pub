@@ -5,16 +5,10 @@ replace TODAYS_DATE 1-11-2023
 replace YESTERDAYS_DATE 1-10-2023
 title The Hawai'i Pub - TODAY_NAME, January 11th, 2023
 
-date TODAYS_DATE
-groups daily index
-
-* <center> _The print at home daily newspaper for residents of Honolulu, Hawai'i. <span class="doNotPrint">PDF version.</span>_ </center>
- link TODAYS_DATE.pdf PDF version
-
-startColumns 4
+import dailyHeader.scroll
 
 ## Map of the day
-image vog.jpg
+image photos/vog.jpg
  caption Today's Vog Map from UH Manoa shows improving vog conditions.
   http://weather.hawaii.edu/vmap/new/ Vog Map
 
@@ -117,12 +111,4 @@ spaceTable
  South 1-3 1-3
  East 2-4 2-4
 
-## Have a great TODAY_NAME!
-author https://github.com/breck7 Breck Yunits - Editor
-
-endColumns
-
-* _Email subscribe@hawaii.pub to receive these PDFs in your email_ <span class="printOnly">On the web: hawaii.pub/TODAYS_DATE.html. </span>
- https://hawaii.pub/TODAYS_DATE.html hawaii.pub/TODAYS_DATE.html
-
-import footer.scroll
+import dailyFooter.scroll
