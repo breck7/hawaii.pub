@@ -1,21 +1,15 @@
 import header.scroll
 
 replace TODAY_NAME Saturday
-title The Hawai'i Pub - TODAY_NAME, January 7th, 2023
 replace TODAYS_DATE 1-7-2023
 replace YESTERDAYS_DATE 1-6-2023
+title The Hawai'i Pub - TODAY_NAME, January 7th, 2023
 
-date TODAYS_DATE
-groups daily index
-
-startColumns 4
-
-* _The print at home daily newspaper for residents of Honolulu, Hawai'i. <span class="doNotPrint">PDF version.</span>_
- link TODAYS_DATE.pdf PDF version
+import dailyHeader.scroll
 
 ## Photo of the day
 
-image kilauea.jpeg
+image photos/kilauea.jpeg
  caption USGS Volcanoes is broadcasting a live stream of the Kilauea eruption.
   https://twitter.com/USGSVolcanoes/status/1611514404616421377 live stream
 
@@ -106,13 +100,4 @@ endSnippet
 - ☀️ Tomorrow: Sunny, with a high near 81. East wind 5 to 10 mph.
 - ✨ Tomorrow Mostly clear, with a low around 66. East northeast wind 7 to 10 mph.
 
-## Have a great TODAY_NAME!
-
-author https://github.com/breck7 Breck Yunits - Editor
-
-* _Email subscribe@hawaii.pub to receive these PDFs in your email_
-
-* <span class="printOnly">On the web: https://hawaii.pub/TODAYS_DATE.html. </span>
-
-endColumns
-import footer.scroll
+import dailyFooter.scroll
