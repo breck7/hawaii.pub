@@ -1,0 +1,111 @@
+import header.scroll
+
+replace TODAY_NAME Saturday
+replace TODAYS_DATE 1-14-2023
+replace YESTERDAYS_DATE 1-13-2023
+title The Hawai'i Pub - TODAY_NAME, January 14th, 2023
+
+import dailyHeader.scroll
+
+## Photo of the day
+image photos/lavaLake.jpg
+ caption The west vent in Halemaʻumaʻu and lava lake from USGS's live webcam.
+  https://www.usgs.gov/media/webcams/v1cam-west-vent-halemaumau-and-lava-lake live webcam
+
+endSnippet
+
+## Word of the day
+ https://archive.org/details/ofhawadictionary00andrrich
+* *Pahilau* - n. A false-hood; an untruth
+
+## University News
+ https://www.hawaii.edu/news/
+- UH golfer competes amongst world’s top pros at Waiʻalae CC
+ https://www.hawaii.edu/news/2023/01/13/blaze-akana-sony-open/
+
+## Jobs
+* 509 new jobs on Indeed.com including Honolulu Cookie Company Purchasing Assistant $50k and Horseback Trail Guide $44k
+ https://www.indeed.com/jobs?q=&l=Honolulu%2C+HI&fromage=1 Indeed.com
+* 188 new jobs on craigslist including Norwegian Cruise Line $14hr
+ https://honolulu.craigslist.org/search/jjj craigslist
+
+## Housing
+* 33 new rental listings on HotPads including: $4,200 for 4BR on Puu Panini
+ https://hotpads.com/honolulu-hi/apartments-for-rent?maxCreated=24&page=1 HotPads
+
+## Restaurants
+* Google lists 21 restaurants with 4.5+ rating including: Fete and Mud Hen Water
+ https://www.google.com/search?q=oahu%20top%20restaurants&tbm=lcl&sxsrf=AJOqlzXPpAGPj6tkwIh0wkytjUG7yMw5Kg%3A1673071194733&ei=Wgq5Y4a4LJb7sAek_7uADA&ved=2ahUKEwie3Mr-47T8AhUEC-wKHfxqCocQwywoAXoECAMQBw&uact=5&oq=oahu+top+restaurants&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAMyBwgAEIAEEA0yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIICAAQCBAeEAoyBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjoECCMQJzoGCAAQBxAeOggIABAIEAcQHjoKCAAQCBAHEB4QClCFA1i_BWC4CGgAcAB4AIABYogBvAOSAQE2mAEAoAEBwAEB&sclient=gws-wiz-local&rlfi=hd:;si:&tbs=lrf:!1m5!1u2!2m2!2m1!2e8!4e2!1m4!1u3!2m2!3m1!1e1!1m4!1u5!2m2!5m1!1sgcid_3american_1restaurant!1m4!1u5!2m2!5m1!1sgcid_3seafood_1restaurant!1m4!1u2!2m2!2m1!1e1!1m4!1u1!2m2!1m1!1e1!1m4!1u1!2m2!1m1!1e2!1m4!1u22!2m2!21m1!1e1!2m1!1e5!2m1!1e1!2m1!1e3!2m4!1e2!5m2!2m1!2e9!3sCg8SDXJhdGluZ19maWx0ZXIgASoCVVM,lf:1,lf_ui:9&rlst=f restaurants with 4.5+ rating
+ https://www.fetehawaii.com/ Fete
+ https://www.mudhenwater.com/ Mud Hen Water
+
+## Airport @DOTHawaii
+ https://twitter.com/DOTHawaii @DOTHawaii
+* 200+ planes arriving into HNL today
+ http://72.253.68.19/hnlflights/arrivals.asp arriving
+
+comment ## Governor's Office @GovHawaii
+ https://governor.hawaii.gov/ Governor's Office
+ https://twitter.com/GovHawaii @GovHawaii
+
+comment ## Mayor's Office @MayorRickHNL
+ https://www.honolulu.gov/mayor/ Mayor's Office
+ https://twitter.com/MayorRickHNL @MayorRickHNL
+
+comment ## City Council Meetings @hnlcitycouncil
+ https://www.honolulucitycouncil.org/ City Council
+ https://twitter.com/hnlcitycouncil @hnlcitycouncil
+ https://www.honolulucitycouncil.org/meetings Meetings
+
+## Hawai'i Department of Education @HIDOE808
+ https://www.hawaiipublicschools.org/ Hawai'i Department of Education
+ https://twitter.com/HIDOE808 @HIDOE808
+* Calendar: No school January 16th for MLK day
+ https://www.hawaiipublicschools.org/DOE%20Forms/2022-23calendar.pdf Calendar
+
+## Libraries @hsplshigov
+ https://www.librarieshawaii.org/ Libraries
+ https://twitter.com/hsplshigov @hsplshigov
+* There are 10 events this week in Oahu on the Library calendar
+ https://www.librarieshawaii.org/events/list/?tribe_eventisland=79&hide_subsequent_recurrences=1 Library calendar
+
+## Subreddits - Oahu - Honolulu - Hawaii
+ https://www.reddit.com/r/Honolulu/new Honolulu
+ https://www.reddit.com/r/Oahu/new Oahu
+ https://www.reddit.com/r/Hawaii/new Hawaii
+* Posts yesterday included:
+* Anyone need anything from Trader Joe’s (main land) - 41 upvotes
+ https://www.reddit.com/r/Oahu/comments/10b2vc5/anyone_need_anything_from_trader_joes_main_land/
+
+## Police @honolulupolice
+ https://www.honolulupd.org/ Police
+ https://twitter.com/honolulupolice @honolulupolice
+* 22 arrests in the YESTERDAYS_DATE arrest logs.
+ https://www.honolulupd.org/information/arrest-logs/ arrest logs
+
+comment ## Courts
+ https://www.courts.state.hi.us/
+ * 01/12/2023 - Oral Argument Before the Hawaii Supreme Court, 2 p.m.
+ https://calendar.ehawaii.gov/calendar/meeting/69928/details.html
+
+comment ## Fire Department
+ https://fire.honolulu.gov/ Fire Department
+
+## Weather
+ https://forecast.weather.gov/MapClick.php?lat=21.3049&lon=-157.8579#.Y7uebezMIdo
+- ☀️ Today: Widespread haze. Mostly sunny, with a high near 82. Light and variable wind.
+- ☁️ Tonight: Isolated showers after midnight. Widespread haze. Partly cloudy, with a low around 73. Light east southeast wind becoming east 9 to 14 mph after midnight. Winds could gust as high as 18 mph. Chance of precipitation is 20%.
+- 🌦 Tomorrow: Isolated showers before noon. Widespread haze before noon. Mostly sunny, with a high near 82. Breezy, with an east wind 7 to 15 mph, with gusts as high as 21 mph. Chance of precipitation is 20%.
+- ☁️ Tomorrow Night: Isolated showers after midnight. Partly cloudy, with a low around 72. East wind 5 to 7 mph becoming calm in the evening. Chance of precipitation is 20%.
+
+## 🏄🏄 Surf Report 🏄🏄
+ https://www.weather.gov/hfo/SRF
+
+spaceTable
+ Shore AM(ft) PM(ft)
+ North 10-15 12-16
+ West 4-6 7-10
+ South 1-3 1-3
+ East 2-4 2-4
+
+import dailyFooter.scroll
