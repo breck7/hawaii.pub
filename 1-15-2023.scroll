@@ -1,0 +1,109 @@
+import header.scroll
+
+replace TODAY_NAME Sunday
+replace TODAYS_DATE 1-15-2023
+replace YESTERDAYS_DATE 1-14-2023
+title The Hawai'i Pub - TODAY_NAME, January 15th, 2023
+
+import dailyHeader.scroll
+
+## Table of the day
+image photos/23airports.png
+ caption Hawai'i has 23 active airports across the state including 3 International Airports.
+  https://en.wikipedia.org/wiki/List_of_airports_in_Hawaii airports
+
+endSnippet
+
+## Word of the day
+ https://archive.org/details/ofhawadictionary00andrrich
+* *Aaea* - n. The sound that babies make in calling for their parents.
+
+## University News
+ https://www.hawaii.edu/news/
+- UH law school donates 400-plus books to inmates
+ https://www.hawaii.edu/news/2019/12/23/400-plus-books-for-inmates/
+
+## Jobs
+* 238 new jobs on Indeed.com including Coin Processor $16hr and FedEx Sorter $18hr
+ https://www.indeed.com/jobs?q=&l=Honolulu%2C+HI&fromage=1 Indeed.com
+* 58 new jobs on craigslist including Carpenter $40hr
+ https://honolulu.craigslist.org/search/jjj craigslist
+
+## Housing
+* 12 new rental listings on HotPads including: $2,700 for 2BR in Ala Moana
+ https://hotpads.com/honolulu-hi/apartments-for-rent?maxCreated=24&page=1 HotPads
+
+## Restaurants
+* Ever thought about opening your own? The permit to do so is published by the Food Safety Branch of the Department of Health.
+ https://health.hawaii.gov/san/files/2022/05/FOOD-EST-APPLICATION-08-2021-OAHU.pdf permit
+
+## Airport @DOTHawaii
+ https://twitter.com/DOTHawaii @DOTHawaii
+* 200+ planes arriving into HNL today
+ http://72.253.68.19/hnlflights/arrivals.asp arriving
+
+comment ## Governor's Office @GovHawaii
+ https://governor.hawaii.gov/ Governor's Office
+ https://twitter.com/GovHawaii @GovHawaii
+
+comment ## Mayor's Office @MayorRickHNL
+ https://www.honolulu.gov/mayor/ Mayor's Office
+ https://twitter.com/MayorRickHNL @MayorRickHNL
+
+comment ## City Council Meetings @hnlcitycouncil
+ https://www.honolulucitycouncil.org/ City Council
+ https://twitter.com/hnlcitycouncil @hnlcitycouncil
+ https://www.honolulucitycouncil.org/meetings Meetings
+
+## Hawai'i Department of Education @HIDOE808
+ https://www.hawaiipublicschools.org/ Hawai'i Department of Education
+ https://twitter.com/HIDOE808 @HIDOE808
+* Calendar: No school January 16th for MLK day
+ https://www.hawaiipublicschools.org/DOE%20Forms/2022-23calendar.pdf Calendar
+
+## Libraries @hsplshigov
+ https://www.librarieshawaii.org/ Libraries
+ https://twitter.com/hsplshigov @hsplshigov
+* There are 10 events this week in Oahu on the Library calendar
+ https://www.librarieshawaii.org/events/list/?tribe_eventisland=79&hide_subsequent_recurrences=1 Library calendar
+
+## Subreddits - Oahu - Honolulu - Hawaii
+ https://www.reddit.com/r/Honolulu/new Honolulu
+ https://www.reddit.com/r/Oahu/new Oahu
+ https://www.reddit.com/r/Hawaii/new Hawaii
+* Posts yesterday included:
+* Plume-like cloud ‘shot’ in front of Hawaiian Airlines flight seconds before turbulence injured 25, pilot says - 23 upvotes
+ https://www.reddit.com/r/Hawaii/comments/10c3a1t/plumelike_cloud_shot_in_front_of_hawaiian/
+
+## Police @honolulupolice
+ https://www.honolulupd.org/ Police
+ https://twitter.com/honolulupolice @honolulupolice
+* 9 arrests in the YESTERDAYS_DATE arrest logs.
+ https://www.honolulupd.org/information/arrest-logs/ arrest logs
+
+comment ## Courts
+ https://www.courts.state.hi.us/
+ * 01/12/2023 - Oral Argument Before the Hawaii Supreme Court, 2 p.m.
+ https://calendar.ehawaii.gov/calendar/meeting/69928/details.html
+
+comment ## Fire Department
+ https://fire.honolulu.gov/ Fire Department
+
+## Weather
+ https://forecast.weather.gov/MapClick.php?lat=21.3049&lon=-157.8579#.Y7uebezMIdo
+- ☀️ Today: Mostly sunny, with a high near 82. East wind 7 to 11 mph.
+- ☁️ Tonight: Partly cloudy, with a low around 67. East northeast wind 5 to 10 mph becoming light northeast after midnight.
+- 🌦 Tomorrow: Widespread haze. Mostly sunny, with a high near 81. Calm wind becoming south 5 to 8 mph.
+- ☁️ Tomorrow Night: Widespread haze. Mostly clear, with a low around 67. Light and variable wind.
+
+## 🏄🏄 Surf Report 🏄🏄
+ https://www.weather.gov/hfo/SRF
+
+spaceTable
+ Shore AM(ft) PM(ft)
+ North 18-22 15-20
+ West 12-16 10-14
+ South 2-4 2-4
+ East 2-4 2-4
+
+import dailyFooter.scroll
