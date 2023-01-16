@@ -1,0 +1,118 @@
+import header.scroll
+
+replace TODAY_NAME Monday
+replace TODAYS_DATE 1-16-2023
+replace YESTERDAYS_DATE 1-15-2023
+title The Hawai'i Pub - TODAY_NAME, January 16th, 2023
+
+import dailyHeader.scroll
+
+## Map of the day
+image photos/microclimates.webp
+ caption Hawai'i has 10 of the 14 climate types in the Köppen Climate Type system.
+  https://en.wikipedia.org/wiki/Climate_of_Hawaii 10 of the 14 climate types
+  https://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification Köppen Climate Type
+
+endSnippet
+
+## Word of the day
+ https://archive.org/details/ofhawadictionary00andrrich
+* *Puhikii* - n. A species of small flying-fish (Parexocoetus brachypterus), called also kaawili-puhikii; they swim on the surface of the sea.
+
+## University News
+ https://www.hawaii.edu/news/
+- Dr. Martin Luther King, Jr. delivers message of hope at UH Mānoa (1964)
+ https://www.hawaii.edu/news/2016/01/15/dr-martin-luther-king-jr-delivers-message-of-hope-at-uh-manoa/
+
+## Jobs
+* 209 new jobs on Indeed.com including Warehouse Operations $22hr and Dishwasher $14hr
+ https://www.indeed.com/jobs?q=&l=Honolulu%2C+HI&fromage=1 Indeed.com
+* 64 new jobs on craigslist including Baskin-Robbins $12hr
+ https://honolulu.craigslist.org/search/jjj craigslist
+
+## Housing
+* 15 new rental listings on HotPads including: $1,580 for 1BR in Salt Lake
+ https://hotpads.com/honolulu-hi/apartments-for-rent?maxCreated=24&page=1 HotPads
+
+## Restaurants
+* Google Places lists 21 restaurants with 4.5+ rating including: Sasabune Hawaii (Sushi), The Signature Prime Steak & Seafood and Highway Inn (Hawaiian)
+ https://www.google.com/search?q=oahu%20top%20restaurants&tbm=lcl&sxsrf=AJOqlzXPpAGPj6tkwIh0wkytjUG7yMw5Kg%3A1673071194733&ei=Wgq5Y4a4LJb7sAek_7uADA&ved=2ahUKEwie3Mr-47T8AhUEC-wKHfxqCocQwywoAXoECAMQBw&uact=5&oq=oahu+top+restaurants&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAMyBwgAEIAEEA0yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIICAAQCBAeEAoyBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjoECCMQJzoGCAAQBxAeOggIABAIEAcQHjoKCAAQCBAHEB4QClCFA1i_BWC4CGgAcAB4AIABYogBvAOSAQE2mAEAoAEBwAEB&sclient=gws-wiz-local&rlfi=hd:;si:&tbs=lrf:!1m5!1u2!2m2!2m1!2e8!4e2!1m4!1u3!2m2!3m1!1e1!1m4!1u5!2m2!5m1!1sgcid_3american_1restaurant!1m4!1u5!2m2!5m1!1sgcid_3seafood_1restaurant!1m4!1u2!2m2!2m1!1e1!1m4!1u1!2m2!1m1!1e1!1m4!1u1!2m2!1m1!1e2!1m4!1u22!2m2!21m1!1e1!2m1!1e5!2m1!1e1!2m1!1e3!2m4!1e2!5m2!2m1!2e9!3sCg8SDXJhdGluZ19maWx0ZXIgASoCVVM,lf:1,lf_ui:9&rlst=f restaurants with 4.5+ rating
+ https://sasabuneh.com/ Sasabune Hawaii
+ https://www.signatureprimesteak.com/ The Signature Prime Steak & Seafood
+ https://www.myhighwayinn.com/ Highway Inn
+
+## Governor's Office @GovHawaii
+ https://governor.hawaii.gov/ Governor's Office
+ https://twitter.com/GovHawaii @GovHawaii
+* Department of Agriculture - Snake Turned In
+ https://governor.hawaii.gov/newsroom/news-release-from-dept-of-agriculture-snake-turned-in/
+
+## Mayor's Office @MayorRickHNL
+ https://www.honolulu.gov/mayor/ Mayor's Office
+ https://twitter.com/MayorRickHNL @MayorRickHNL
+
+## City Council @hnlcitycouncil
+ https://www.honolulucitycouncil.org/ City Council
+ https://twitter.com/hnlcitycouncil @hnlcitycouncil
+* Upcoming meetings
+ https://www.honolulucitycouncil.org/meetings
+
+## Hawai'i Department of Education @HIDOE808
+ https://www.hawaiipublicschools.org/ Hawai'i Department of Education
+ https://twitter.com/HIDOE808 @HIDOE808
+* Calendar: No school January 16th for MLK day
+ https://www.hawaiipublicschools.org/DOE%20Forms/2022-23calendar.pdf Calendar
+
+## Libraries @hsplshigov
+ https://www.librarieshawaii.org/ Libraries
+ https://twitter.com/hsplshigov @hsplshigov
+* There are 10 events this week in Oahu on the Library calendar
+ https://www.librarieshawaii.org/events/list/?tribe_eventisland=79&hide_subsequent_recurrences=1 Library calendar
+
+## Airport @DOTHawaii
+ https://twitter.com/DOTHawaii @DOTHawaii
+* 200+ planes arriving into HNL today
+ http://72.253.68.19/hnlflights/arrivals.asp arriving
+
+## Police @honolulupolice
+ https://www.honolulupd.org/ Police
+ https://twitter.com/honolulupolice @honolulupolice
+* 11 arrests in the YESTERDAYS_DATE arrest logs.
+ https://www.honolulupd.org/information/arrest-logs/ arrest logs
+
+## Courts
+ https://www.courts.state.hi.us/
+* 1/19/2023 - Oral Argument Before the Hawaii Supreme Court, 10 a.m.
+ https://calendar.ehawaii.gov/calendar/meeting/70081/details.html
+
+## Fire Department
+ https://fire.honolulu.gov/ Fire Department
+* 1/9/2023 - Lost Hiker Rescued From The Kapalama Trail In Kalihi
+ https://fire.honolulu.gov/2023/01/09/lost-hiker-rescued-from-the-kapalama-trail-in-kalihi/
+
+## Subreddits - Oahu - Honolulu - Hawaii
+ https://www.reddit.com/r/Honolulu/new Honolulu
+ https://www.reddit.com/r/Oahu/new Oahu
+ https://www.reddit.com/r/Hawaii/new Hawaii
+* Posts yesterday included:
+* Microclimates of the Hawaiian Archipelago - 57 upvotes
+ https://www.reddit.com/r/Hawaii/comments/10d2357/microclimates_of_the_hawaiian_archipelago/
+
+## Weather
+ https://forecast.weather.gov/MapClick.php?lat=21.3049&lon=-157.8579#.Y7uebezMIdo
+- ☀️ Today: Widespread haze after 9am. Mostly sunny, with a high near 82. Calm wind becoming south 5 to 7 mph in the morning.
+- ☁️ Tonight: Widespread haze. Partly cloudy, with a low around 66. Light north wind.
+- ☀️ Tomorrow: Widespread haze. Mostly sunny, with a high near 83. Light and variable wind becoming south 5 to 7 mph in the morning.
+- ☁️ Tomorrow Night: Widespread haze. Partly cloudy, with a low around 65. Calm wind.
+
+## 🏄🏄 Surf Report 🏄🏄
+ https://www.weather.gov/hfo/SRF
+
+spaceTable
+ Shore AM(ft) PM(ft)
+ North 12-16 12-16
+ West 8-12 8-12
+ South 1-3 1-3
+ East 1-3 1-3
+
+import dailyFooter.scroll
