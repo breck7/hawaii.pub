@@ -1,0 +1,118 @@
+import header.scroll
+
+replace TODAY_NAME Tuesday
+replace TODAYS_DATE 1-17-2023
+replace YESTERDAYS_DATE 1-16-2023
+title The Hawai'i Pub - TODAY_NAME, January 17th, 2023
+
+import dailyHeader.scroll
+
+## Chart of the day
+image photos/2022budget.jpg
+ caption Where the City gets its dollars, from the 2022 operating budget.
+  https://www.honolulu.gov/budget/budget-operating-cip.html operating budget
+
+endSnippet
+
+## Word of the day
+ https://archive.org/details/ofhawadictionary00andrrich
+* *Alihikaua* - n. [Alihi, leader, and kaua, war.] A general; a commander; one who directs in battle.
+
+## University News
+ https://www.hawaii.edu/news/
+- HI-SEAS Mission VII recruiting crew (2018)
+ https://www.hawaii.edu/news/2018/03/20/hi-seas-mission-vii-recruiting-crew/
+- Earth’s inner core may contain both soft and hard iron (2021)
+ https://www.hawaii.edu/news/2021/10/08/earths-inner-core-research/
+
+## Jobs
+* 343 new jobs on Indeed.com including Hostess $20hr and Dental Receptionist $18hr
+ https://www.indeed.com/jobs?q=&l=Honolulu%2C+HI&fromage=1 Indeed.com
+* 198 new jobs on craigslist including Newspaper Delivery $1k/month
+ https://honolulu.craigslist.org/search/jjj craigslist
+
+## Housing
+* 27 new rental listings on HotPads including: $4,000 for 2BR in Ala Moana
+ https://hotpads.com/honolulu-hi/apartments-for-rent?maxCreated=24&page=1 HotPads
+
+## Restaurants
+* Yelp lists 32 Greek restaurants in Honolulu including Leo's Taverna and Hellenic Kitchen
+ https://www.yelp.com/search?find_desc=Greek&find_loc=Honolulu%2C+HI%2C+United+States&sortby=rating Greek restaurants
+ https://www.leostaverna.com/ Leo's Taverna
+ https://hellenickitchen.square.site/ Hellenic Kitchen
+
+## Governor's Office @GovHawaii
+ https://governor.hawaii.gov/ Governor's Office
+ https://twitter.com/GovHawaii @GovHawaii
+* Department of Agriculture - Snake Turned In
+ https://governor.hawaii.gov/newsroom/news-release-from-dept-of-agriculture-snake-turned-in/
+
+## Mayor's Office @MayorRickHNL
+ https://www.honolulu.gov/mayor/ Mayor's Office
+ https://twitter.com/MayorRickHNL @MayorRickHNL
+
+## City Council @hnlcitycouncil
+ https://www.honolulucitycouncil.org/ City Council
+ https://twitter.com/hnlcitycouncil @hnlcitycouncil
+* Upcoming meetings
+ https://www.honolulucitycouncil.org/meetings
+
+## Hawai'i Department of Education @HIDOE808
+ https://www.hawaiipublicschools.org/ Hawai'i Department of Education
+ https://twitter.com/HIDOE808 @HIDOE808
+* Calendar
+ https://www.hawaiipublicschools.org/DOE%20Forms/2022-23calendar.pdf Calendar
+
+## Libraries @hsplshigov
+ https://www.librarieshawaii.org/ Libraries
+ https://twitter.com/hsplshigov @hsplshigov
+* There are 10 events this week in Oahu on the Library calendar
+ https://www.librarieshawaii.org/events/list/?tribe_eventisland=79&hide_subsequent_recurrences=1 Library calendar
+
+## Airport @DOTHawaii
+ https://twitter.com/DOTHawaii @DOTHawaii
+* 200+ planes arriving into HNL today
+ http://72.253.68.19/hnlflights/arrivals.asp arriving
+
+## Police @honolulupolice
+ https://www.honolulupd.org/ Police
+ https://twitter.com/honolulupolice @honolulupolice
+* 10+ arrests in the YESTERDAYS_DATE arrest logs.
+ https://www.honolulupd.org/information/arrest-logs/ arrest logs
+
+## Courts
+ https://www.courts.state.hi.us/
+* 1/19/2023 - Oral Argument Before the Hawaii Supreme Court, 10 a.m.
+ https://calendar.ehawaii.gov/calendar/meeting/70081/details.html
+
+## Fire Department
+ https://fire.honolulu.gov/ Fire Department
+* 1/9/2023 - Lost Hiker Rescued From The Kapalama Trail In Kalihi
+ https://fire.honolulu.gov/2023/01/09/lost-hiker-rescued-from-the-kapalama-trail-in-kalihi/
+
+## Subreddits - Oahu - Honolulu - Hawaii
+ https://www.reddit.com/r/Honolulu/new Honolulu
+ https://www.reddit.com/r/Oahu/new Oahu
+ https://www.reddit.com/r/Hawaii/new Hawaii
+* Posts yesterday included:
+* Baby steps to food security - 70 upvotes
+ https://www.reddit.com/r/Hawaii/comments/10e5f84/baby_steps_to_food_security/
+
+## Weather
+ https://forecast.weather.gov/MapClick.php?lat=21.3049&lon=-157.8579#.Y7uebezMIdo
+- ☀️ Today: Widespread haze. Sunny, with a high near 83. East northeast wind 6 to 9 mph becoming south in the afternoon.
+- ✨ Tonight: Widespread haze. Partly cloudy, with a low around 65. South wind around 6 mph becoming calm.
+- ☀️ Tomorrow: Isolated showers after 9am. Widespread haze. Mostly sunny, with a high near 83. North wind around 6 mph becoming south in the morning. Chance of precipitation is 20%.
+- ☁️ Tomorrow Night: Isolated showers. Widespread haze. Partly cloudy, with a low around 67. Light north northeast wind. Chance of precipitation is 20%.
+
+## 🏄🏄 Surf Report 🏄🏄
+ https://www.weather.gov/hfo/SRF
+
+spaceTable
+ Shore AM(ft) PM(ft)
+ North 10-14 10-14
+ West 6-9 6-9
+ South 1-3 1-3
+ East 1-3 1-3
+
+import dailyFooter.scroll
