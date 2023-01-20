@@ -1,45 +1,47 @@
+date 1-8-2023
 import header.scroll
 
-replace TODAY_NAME Saturday
-replace TODAYS_DATE 1-7-2023
-replace YESTERDAYS_DATE 1-6-2023
-title The Hawai'i Pub - TODAY_NAME, January 7th, 2023
+## Map of the day
 
-import dailyHeader.scroll
-
-## Photo of the day
-
-image photos/kilauea.jpeg
- caption USGS Volcanoes is broadcasting a live stream of the Kilauea eruption.
-  https://twitter.com/USGSVolcanoes/status/1611514404616421377 live stream
+image photos/surfMap1982.jpeg
+ caption A surf map of Hawai'i from 1982.
+  https://www.geographicus.com/P/AntiqueMap/hawaiisurfing-wright-1982
 
 endSnippet
 
+## Word of the day
+
+* Kaiakahulumanu - _noun_ - the name of the flood yet to come.
+
+## University News
+
+- UH AI Racing Tech places third in ‘rollercoaster’ autonomous car challenge
+ https://www.hawaii.edu/news/2023/01/07/uh-ai-racing-tech-places-third/
+
 ## Jobs
 
-* 1,110 new jobs on Indeed.com including Preschool Aide $14hr and Package Handler $17hr
+* 203 new jobs on Indeed.com including Lululemon Assistant Manager $35hr and Macy's Sales Associate $18hr
  https://www.indeed.com/jobs?q=&l=Honolulu%2C+HI&fromage=1 Indeed.com
-* 257 new jobs on craigslist including Groundskeeper $20hr and Janitor $17hr
+* 130 new jobs on craigslist including cleaner $25hr
  https://honolulu.craigslist.org/search/jjj craigslist
 
 ## Housing
 
-* 56 new listings on HotPads including: $2,300 for 2BR in Salt Lake
+* 22 new listings on HotPads including: $4,600 for 3BR in Kakaako
  https://hotpads.com/honolulu-hi/apartments-for-rent?maxCreated=24&page=1 HotPads
 
 ## Restaurants
-
-* Google Places lists 21 restaurants with 4.5+ rating including: EARL (Sandwiches), Haleiwa Joes Seafood Grill and Roy's Hawaii Kai
+* Google Places lists 21 restaurants with 4.5+ rating including: Sasabune Hawaii (Sushi), The Signature Prime Steak & Seafood and Highway Inn (Hawaiian)
  https://www.google.com/search?q=oahu%20top%20restaurants&tbm=lcl&sxsrf=AJOqlzXPpAGPj6tkwIh0wkytjUG7yMw5Kg%3A1673071194733&ei=Wgq5Y4a4LJb7sAek_7uADA&ved=2ahUKEwie3Mr-47T8AhUEC-wKHfxqCocQwywoAXoECAMQBw&uact=5&oq=oahu+top+restaurants&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAMyBwgAEIAEEA0yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIICAAQCBAeEAoyBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjoECCMQJzoGCAAQBxAeOggIABAIEAcQHjoKCAAQCBAHEB4QClCFA1i_BWC4CGgAcAB4AIABYogBvAOSAQE2mAEAoAEBwAEB&sclient=gws-wiz-local&rlfi=hd:;si:&tbs=lrf:!1m5!1u2!2m2!2m1!2e8!4e2!1m4!1u3!2m2!3m1!1e1!1m4!1u5!2m2!5m1!1sgcid_3american_1restaurant!1m4!1u5!2m2!5m1!1sgcid_3seafood_1restaurant!1m4!1u2!2m2!2m1!1e1!1m4!1u1!2m2!1m1!1e1!1m4!1u1!2m2!1m1!1e2!1m4!1u22!2m2!21m1!1e1!2m1!1e5!2m1!1e1!2m1!1e3!2m4!1e2!5m2!2m1!2e9!3sCg8SDXJhdGluZ19maWx0ZXIgASoCVVM,lf:1,lf_ui:9&rlst=f restaurants with 4.5+ rating
- https://earlhawaii.com/ EARL
- https://www.haleiwajoes.com/ Haleiwa Joes Seafood Grill
- https://www.royyamaguchi.com/roys-hawaiikai Roy's Hawaii Kai
+ https://sasabuneh.com/ Sasabune Hawaii
+ https://www.signatureprimesteak.com/ The Signature Prime Steak & Seafood
+ https://www.myhighwayinn.com/ Highway Inn
 
 ## Airport @DOTHawaii
  https://twitter.com/DOTHawaii @DOTHawaii
 
-* 292 planes arriving into HNL today
- https://airports.hawaii.gov/hnl/flights/ arriving
+* 227 planes arriving into HNL today
+ http://72.253.68.19/hnlflights/arrivals.asp arriving
 
 ## Governor's Office @GovHawaii
  https://governor.hawaii.gov/ Governor's Office
@@ -70,18 +72,17 @@ endSnippet
 * There are 10 events this week in Oahu on the Library calendar
  https://www.librarieshawaii.org/events/list/?tribe_eventisland=79&hide_subsequent_recurrences=1 Library calendar
 
-## Subreddits
+## Honolulu Subreddit
+ https://www.reddit.com/r/Honolulu/new/
 
-* There were 2 new posts yesterday in the Honolulu Subreddit and 13 new posts in the Hawaii Subreddit including Video: Hawaii’s Kilauea volcano erupts again (316 upvotes).
- https://www.reddit.com/r/Honolulu/new/ Honolulu Subreddit
- https://www.reddit.com/r/Hawaii/new/ Hawaii Subreddit
- https://www.reddit.com/r/Hawaii/comments/104ya3n/video_hawaiis_kilauea_volcano_erupts_again/ Video: Hawaii’s Kilauea volcano erupts again
+* There were 5 new posts yesterday including Victoria Lee, a mixed martial arts prodigy and younger sister of current ONE Championship champions Angela and Christian Lee, has died at the age of 18. (13 upvotes).
+ https://www.reddit.com/r/Honolulu/comments/1063wha/victoria_lee_a_mixed_martial_arts_prodigy_and/ Victoria Lee, a mixed martial arts prodigy and younger sister of current ONE Championship champions Angela and Christian Lee, has died at the age of 18
 
 ## Police @honolulupolice
  https://www.honolulupd.org/ Police
  https://twitter.com/honolulupolice @honolulupolice
 
-* 17 arrests in the YESTERDAYS_DATE arrest logs.
+* 24 arrests in the YESTERDAYS_DATE arrest logs.
  https://www.honolulupd.org/information/arrest-logs/ arrest logs
 
 ## Courts
@@ -95,9 +96,17 @@ endSnippet
 
 ## Weather
  https://forecast.weather.gov/MapClick.php?lat=21.3049&lon=-157.8579#.Y7uebezMIdo
-- ☀️ Today: Mostly sunny, with a high near 81. East northeast wind 8 to 13 mph.
-- ✨ Tonight: Mostly clear, with a low around 66. East northeast wind 5 to 9 mph becoming light northeast.
-- ☀️ Tomorrow: Sunny, with a high near 81. East wind 5 to 10 mph.
-- ✨ Tomorrow Mostly clear, with a low around 66. East northeast wind 7 to 10 mph.
 
-import dailyFooter.scroll
+## Surf Report
+ https://www.weather.gov/hfo/SRF
+
+* A new NW (320 degrees) swell has arrived and gradually building through Monday. Surf along exposed north and west-facing shores may reach low-end High Surf Advisory levels Monday into Tuesday.
+
+spaceTable
+ Shore AM(ft) PM(ft)
+ North 5-7 6-8
+ West 3-5 4-6
+ South 1-3 1-3
+ East 1-3 1-3
+
+import footer.scroll

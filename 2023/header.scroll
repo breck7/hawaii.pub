@@ -1,0 +1,21 @@
+importOnly
+import ../settings.scroll
+import ../style.scroll
+
+replaceJs TODAY_NAME dayjs(node.getParent().get("date")).format(`dddd`)
+replaceJs TODAYS_DATE dayjs(node.getParent().get("date")).format(`M-D`)
+replaceJs YESTERDAYS_DATE dayjs(dayjs(node.getParent().get("date")).unix() - 24*3600*1000).format(`M-D`)
+replaceJs MONTH_DAY dayjs(node.getParent().get("date")).format(`MMMM D`)
+
+metaTags
+scrollCssTag
+scrollHeader
+
+groups daily index
+
+title The Hawai'i Pub - TODAY_NAME, MONTH_DAY, 2023
+
+* <div class="tagLine"> _The print at home daily newspaper for residents of Honolulu, Hawai'i. <span class="doNotPrint">PDF version.</span>_ </div>
+ link pdfs/TODAYS_DATE.pdf PDF version
+
+startColumns 4

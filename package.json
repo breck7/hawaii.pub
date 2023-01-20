@@ -6,12 +6,13 @@
     "url": "git+https://github.com/breck7/hawaii.pub.git"
   },
   "scripts": {
-    "open": "open index.html",
-    "build": "scroll build"
+    "test": "scroll list | scroll test",
+    "build": "scroll list | scroll build",
+    "open": "open index.html"
   },
   "author": "Breck Yunits et al",
   "homepage": "https://hawaii.pub",
   "dependencies": {
-    "scroll-cli": "^52.1.1"
+    "scroll-cli": "^55.1.0"
   }
 }

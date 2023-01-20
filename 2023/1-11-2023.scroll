@@ -1,43 +1,38 @@
+date 1-11-2023
 import header.scroll
 
-replace TODAY_NAME Friday
-replace TODAYS_DATE 1-13-2023
-replace YESTERDAYS_DATE 1-12-2023
-title The Hawai'i Pub - TODAY_NAME, January 13th, 2023
-
-import dailyHeader.scroll
-
-## Chart of the day
-image photos/population.webp
- caption A chart of the population of Hawai'i found in Lyman Stone's Will Hawaii Be the Next Puerto Rico?
-  https://medium.com/migration-issues/will-hawaii-be-the-next-puerto-rico-31c220ca81e3 Will Hawaii Be the Next Puerto Rico?
+## Map of the day
+image photos/vog.jpg
+ caption Today's Vog Map from UH Manoa shows improving vog conditions.
+  http://weather.hawaii.edu/vmap/new/ Vog Map
 
 endSnippet
 
 ## Word of the day
- https://archive.org/details/ofhawadictionary00andrrich
-* *Hauhau* - v. 1. To lay stones in a wall. 2. To build with stones.
+ hoverNote Word of the day
+  Source: A Dictionary of the Hawaiian Language by Lorrin Andrews (1865)
+* *Weli* - v. To branch out, as the roots of a tree; to tak root, as a tree; to have many roots.
 
 ## University News
  https://www.hawaii.edu/news/
-- Commercial truck driver training at Leeward CC on a roll
- https://www.hawaii.edu/news/2021/03/02/commercial-truck-driver-training-leeward-cc/
+- Rare unaltered asteroid sample provides clues to early solar system
+ https://www.hawaii.edu/news/2023/01/10/ryugu-asteroid-early-solar-system/
 
 ## Jobs
-* 558 new jobs on Indeed.com including Deli Bakery Associate $19hr and Regal Cinemas Floor Staff $15hr
+* 656 new jobs on Indeed.com including Warehouse Associate $19hr and Dental Assistant $17hr
  https://www.indeed.com/jobs?q=&l=Honolulu%2C+HI&fromage=1 Indeed.com
-* 163 new jobs on craigslist including Senior Audit Accountant $95k
+* 203 new jobs on craigslist including Receptionist $22hr
  https://honolulu.craigslist.org/search/jjj craigslist
 
 ## Housing
-* 27 new rental listings on HotPads including: $5,500 for 4BR on Kuliouou
+* 47 new rental listings on HotPads including: $16,000 for 5BR in Waialae-Kahala
  https://hotpads.com/honolulu-hi/apartments-for-rent?maxCreated=24&page=1 HotPads
 
 ## Restaurants
-* Google lists 21 restaurants with 4.5+ rating including: Beach House by Roy Yamaguchi and Marugame Udon
+* Google lists 21 restaurants with 4.5+ rating including: La Mer (French) and Uncle Bo's Pupu Bar & Grill
  https://www.google.com/search?q=oahu%20top%20restaurants&tbm=lcl&sxsrf=AJOqlzXPpAGPj6tkwIh0wkytjUG7yMw5Kg%3A1673071194733&ei=Wgq5Y4a4LJb7sAek_7uADA&ved=2ahUKEwie3Mr-47T8AhUEC-wKHfxqCocQwywoAXoECAMQBw&uact=5&oq=oahu+top+restaurants&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAMyBwgAEIAEEA0yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIICAAQCBAeEAoyBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjoECCMQJzoGCAAQBxAeOggIABAIEAcQHjoKCAAQCBAHEB4QClCFA1i_BWC4CGgAcAB4AIABYogBvAOSAQE2mAEAoAEBwAEB&sclient=gws-wiz-local&rlfi=hd:;si:&tbs=lrf:!1m5!1u2!2m2!2m1!2e8!4e2!1m4!1u3!2m2!3m1!1e1!1m4!1u5!2m2!5m1!1sgcid_3american_1restaurant!1m4!1u5!2m2!5m1!1sgcid_3seafood_1restaurant!1m4!1u2!2m2!2m1!1e1!1m4!1u1!2m2!1m1!1e1!1m4!1u1!2m2!1m1!1e2!1m4!1u22!2m2!21m1!1e1!2m1!1e5!2m1!1e1!2m1!1e3!2m4!1e2!5m2!2m1!2e9!3sCg8SDXJhdGluZ19maWx0ZXIgASoCVVM,lf:1,lf_ui:9&rlst=f restaurants with 4.5+ rating
- https://www.royyamaguchi.com/ Beach House by Roy Yamaguchi
- https://www.marugameudon.com/ Marugame Udon
+ https://www.halekulani.com/dining/la-mer/ La Mer
+ https://www.unclebosrestaurant.com/ Uncle Bo's Pupu Bar & Grill
 
 ## Airport @DOTHawaii
  https://twitter.com/DOTHawaii @DOTHawaii
@@ -52,10 +47,14 @@ comment ## Mayor's Office @MayorRickHNL
  https://www.honolulu.gov/mayor/ Mayor's Office
  https://twitter.com/MayorRickHNL @MayorRickHNL
 
-comment ## City Council Meetings @hnlcitycouncil
+## City Council Meetings @hnlcitycouncil
  https://www.honolulucitycouncil.org/ City Council
  https://twitter.com/hnlcitycouncil @hnlcitycouncil
  https://www.honolulucitycouncil.org/meetings Meetings
+- Zoning - January 11, 2023 - 09:00 AM Agenda  
+- Parks Enterprise - January 11, 2023 - 01:00 PM Agenda  
+- Planning and the Economy - January 12, 2023 - 09:00 AM Agenda  
+- Public Safety - January 12, 2023 - 01:00 PM
 
 ## Hawai'i Department of Education @HIDOE808
  https://www.hawaiipublicschools.org/ Hawai'i Department of Education
@@ -68,23 +67,21 @@ comment ## City Council Meetings @hnlcitycouncil
 * There are 10 events this week in Oahu on the Library calendar
  https://www.librarieshawaii.org/events/list/?tribe_eventisland=79&hide_subsequent_recurrences=1 Library calendar
 
-## Subreddits - Oahu - Honolulu - Hawaii
- https://www.reddit.com/r/Honolulu/new Honolulu
- https://www.reddit.com/r/Oahu/new Oahu
- https://www.reddit.com/r/Hawaii/new Hawaii
-image photos/hiRateIncreases.jpg
- caption Posts yesterday included Hawaiiʻs energy rate increases over the past two years (22 upvotes).
-  https://www.reddit.com/r/Hawaii/comments/10aowp7/hawaii%CA%BBs_energy_rate_increases_over_the_past_two/ Hawaiiʻs energy rate increases over the past two years
+## Subreddits - Oahu - Honolulu
+ https://www.reddit.com/r/Honolulu/new/ Honolulu
+ https://www.reddit.com/r/Oahu/new/ Oahu
+* There were 9 new posts yesterday including Parking for Eddie Aikau at Waimea (9 upvotes).
+ https://www.reddit.com/r/Oahu/comments/108nkoq/parking_for_eddie_aikau_at_waimea/ Parking for Eddie Aikau at Waimea
 
 ## Police @honolulupolice
  https://www.honolulupd.org/ Police
  https://twitter.com/honolulupolice @honolulupolice
-* 30 arrests in the YESTERDAYS_DATE arrest logs.
+* 23 arrests in the YESTERDAYS_DATE arrest logs.
  https://www.honolulupd.org/information/arrest-logs/ arrest logs
 
-comment ## Courts
+## Courts
  https://www.courts.state.hi.us/
- * 01/12/2023 - Oral Argument Before the Hawaii Supreme Court, 2 p.m.
+* 01/12/2023 - Oral Argument Before the Hawaii Supreme Court, 2 p.m.
  https://calendar.ehawaii.gov/calendar/meeting/69928/details.html
 
 comment ## Fire Department
@@ -92,20 +89,20 @@ comment ## Fire Department
 
 ## Weather
  https://forecast.weather.gov/MapClick.php?lat=21.3049&lon=-157.8579#.Y7uebezMIdo
-- ☀️ Today: Sunny, with a high near 82. Light and variable wind becoming south 5 to 9 mph in the afternoon.
-- ✨ Tonight: Widespread haze after 8pm. Clear, with a low around 67. Southeast wind around 7 mph becoming east northeast in the evening.
-- 🌦 Tomorrow: Isolated showers after noon. Widespread haze. Sunny, with a high near 82. Light and variable wind becoming south 5 to 9 mph in the afternoon. Chance of precipitation is 20%.
-- ✨ Tomorrow Night: Widespread haze before midnight. Partly cloudy, with a low around 73. East northeast wind 5 to 13 mph.
+- 🌦 Today: Isolated showers. Mostly sunny, with a high near 80. Breezy, with a north northeast wind 9 to 17 mph, with gusts as high as 24 mph. Chance of precipitation is 20%.
+- 🌧 Tonight: Isolated showers before 7pm. Mostly clear, with a low around 65. Breezy, with a northeast wind 11 to 16 mph, with gusts as high as 22 mph. Chance of precipitation is 20%.
+- ☀️ Tomorrow: Sunny, with a high near 79. East northeast wind around 11 mph.
+- ✨ Tomorrow Night: Mostly clear, with a low around 64. East wind 6 to 10 mph.
 
 ## 🏄🏄🏄 Surf Report 🏄🏄🏄
  https://www.weather.gov/hfo/SRF
-* A large north swell is on the downward trend today although still in High Surf Advisory (HSA) criteria. Large surf will persist for most north and west facing shores through the weekend as another powerful long period northwest (310 degrees) swell is expected to rise Saturday and hold through Sunday.
+* Surf along exposed north and west facing shores will exceed warning levels today as the largest swell of the season builds down the island chain.
 
 spaceTable
  Shore AM(ft) PM(ft)
- North 18-24 15-20
- West 10-14 8-12
+ North 25-35 40-50
+ West 20-25 25-35
  South 1-3 1-3
  East 2-4 2-4
 
-import dailyFooter.scroll
+import footer.scroll
