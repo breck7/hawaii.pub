@@ -1,11 +1,5 @@
+date 1-14-2023
 import header.scroll
-
-replace TODAY_NAME Saturday
-replace TODAYS_DATE 1-14-2023
-replace YESTERDAYS_DATE 1-13-2023
-title The Hawai'i Pub - TODAY_NAME, January 14th, 2023
-
-import dailyHeader.scroll
 
 ## Photo of the day
 image photos/lavaLake.jpg
@@ -108,4 +102,4 @@ spaceTable
  South 1-3 1-3
  East 2-4 2-4
 
-import dailyFooter.scroll
+import footer.scroll

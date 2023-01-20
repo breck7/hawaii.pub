@@ -1,36 +1,31 @@
+date 1-16-2023
 import header.scroll
 
-replace TODAY_NAME Wednesday
-replace TODAYS_DATE 1-18-2023
-replace YESTERDAYS_DATE 1-17-2023
-title The Hawai'i Pub - TODAY_NAME, January 18th, 2023
-
-import dailyHeader.scroll
-
-## Chart of the day
-image photos/orgChart.jpg
- caption State of Hawai'i organization chart.
-  https://budget.hawaii.gov/budget/state-of-hawaii-background-information/state-of-hawaii-organization/ organization chart
+## Map of the day
+image photos/microclimates.webp
+ caption Hawai'i has 10 of the 14 climate types in the Köppen Climate Type system.
+  https://en.wikipedia.org/wiki/Climate_of_Hawaii 10 of the 14 climate types
+  https://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification Köppen Climate Type
 
 endSnippet
 
 ## Word of the day
  https://archive.org/details/ofhawadictionary00andrrich
-* *Pualu* - adv. Unitedly in action; unanimously in opinion: no ka hiki ole paha i na kanaka a pau ke malama pualu aku i ke aupuni.
+* *Puhikii* - n. A species of small flying-fish (Parexocoetus brachypterus), called also kaawili-puhikii; they swim on the surface of the sea.
 
 ## University News
  https://www.hawaii.edu/news/
-- Yo-Yo Ma, Hōkūleʻa team up with UH whale experts to unite music and nature
- https://www.hawaii.edu/news/2023/01/17/yo-yo-ma-hokulea-whale-experts/
+- Dr. Martin Luther King, Jr. delivers message of hope at UH Mānoa (1964)
+ https://www.hawaii.edu/news/2016/01/15/dr-martin-luther-king-jr-delivers-message-of-hope-at-uh-manoa/
 
 ## Jobs
-* 91 new jobs on Indeed.com including Admin Assistant $46k and Homelessness Assistant $47k
+* 209 new jobs on Indeed.com including Warehouse Operations $22hr and Dishwasher $14hr
  https://www.indeed.com/jobs?q=&l=Honolulu%2C+HI&fromage=1 Indeed.com
-* 179 new jobs on craigslist including farm worker $25hr
+* 64 new jobs on craigslist including Baskin-Robbins $12hr
  https://honolulu.craigslist.org/search/jjj craigslist
 
 ## Housing
-* 44 new rental listings on HotPads including: $6,000 for 3BR on Mariners Ridge
+* 15 new rental listings on HotPads including: $1,580 for 1BR in Salt Lake
  https://hotpads.com/honolulu-hi/apartments-for-rent?maxCreated=24&page=1 HotPads
 
 ## Restaurants
@@ -43,8 +38,8 @@ endSnippet
 ## Governor's Office @GovHawaii
  https://governor.hawaii.gov/ Governor's Office
  https://twitter.com/GovHawaii @GovHawaii
-* DOD Media Release: Luke Meyers Named State Disaster Management Advisor; James Barros To Become New Hi-ema Administrator
- https://governor.hawaii.gov/newsroom/dod-media-release-luke-meyers-named-state-disaster-management-advisor-james-barros-to-become-new-hi-ema-administrator/
+* Department of Agriculture - Snake Turned In
+ https://governor.hawaii.gov/newsroom/news-release-from-dept-of-agriculture-snake-turned-in/
 
 ## Mayor's Office @MayorRickHNL
  https://www.honolulu.gov/mayor/ Mayor's Office
@@ -59,7 +54,7 @@ endSnippet
 ## Hawai'i Department of Education @HIDOE808
  https://www.hawaiipublicschools.org/ Hawai'i Department of Education
  https://twitter.com/HIDOE808 @HIDOE808
-* Calendar
+* Calendar: No school January 16th for MLK day
  https://www.hawaiipublicschools.org/DOE%20Forms/2022-23calendar.pdf Calendar
 
 ## Libraries @hsplshigov
@@ -76,7 +71,7 @@ endSnippet
 ## Police @honolulupolice
  https://www.honolulupd.org/ Police
  https://twitter.com/honolulupolice @honolulupolice
-* 10+ arrests in the YESTERDAYS_DATE arrest logs.
+* 11 arrests in the YESTERDAYS_DATE arrest logs.
  https://www.honolulupd.org/information/arrest-logs/ arrest logs
 
 ## Courts
@@ -86,32 +81,32 @@ endSnippet
 
 ## Fire Department
  https://fire.honolulu.gov/ Fire Department
-* 1/14/2023 - Fire In Partially Constructed Building Extinguished In Ewa Beach
- https://fire.honolulu.gov/2023/01/14/fire-in-partially-constructed-building-extinguished-in-ewa-beach/
+* 1/9/2023 - Lost Hiker Rescued From The Kapalama Trail In Kalihi
+ https://fire.honolulu.gov/2023/01/09/lost-hiker-rescued-from-the-kapalama-trail-in-kalihi/
 
 ## Subreddits - Oahu - Honolulu - Hawaii
  https://www.reddit.com/r/Honolulu/new Honolulu
  https://www.reddit.com/r/Oahu/new Oahu
  https://www.reddit.com/r/Hawaii/new Hawaii
 * Posts yesterday included:
-* Protest to preserve free parking for surfers at Bowls and boaters at the Ala Wai Small Boat Harbor. - 22 upvotes
- https://www.reddit.com/r/Hawaii/comments/10f2l5d/protest_to_preserve_free_parking_for_surfers_at/
+* Microclimates of the Hawaiian Archipelago - 57 upvotes
+ https://www.reddit.com/r/Hawaii/comments/10d2357/microclimates_of_the_hawaiian_archipelago/
 
 ## Weather
  https://forecast.weather.gov/MapClick.php?lat=21.3049&lon=-157.8579#.Y7uebezMIdo
-- 🌦 Today: Scattered showers after noon. Mostly cloudy, with a high near 83. South wind 5 to 8 mph. Chance of precipitation is 30%.
-- ☁️ Tonight: Isolated showers before midnight. Partly cloudy, with a low around 72. South wind around 5 mph becoming calm in the evening. Chance of precipitation is 20%.
-- 🌦 Tomorrow: Isolated showers after noon. Mostly sunny, with a high near 82. Light and variable wind becoming south around 5 mph in the morning. Chance of precipitation is 20%.
-- 🌧 Tomorrow Night: Scattered showers. Widespread haze. Mostly cloudy, with a low around 71. East northeast wind around 5 mph. Chance of precipitation is 30%.
+- ☀️ Today: Widespread haze after 9am. Mostly sunny, with a high near 82. Calm wind becoming south 5 to 7 mph in the morning.
+- ☁️ Tonight: Widespread haze. Partly cloudy, with a low around 66. Light north wind.
+- ☀️ Tomorrow: Widespread haze. Mostly sunny, with a high near 83. Light and variable wind becoming south 5 to 7 mph in the morning.
+- ☁️ Tomorrow Night: Widespread haze. Partly cloudy, with a low around 65. Calm wind.
 
 ## 🏄🏄 Surf Report 🏄🏄
  https://www.weather.gov/hfo/SRF
 
 spaceTable
  Shore AM(ft) PM(ft)
- North 7-10 8-12
- West 5-7 6-8
- South 1-3 0-2
+ North 12-16 12-16
+ West 8-12 8-12
+ South 1-3 1-3
  East 1-3 1-3
 
-import dailyFooter.scroll
+import footer.scroll

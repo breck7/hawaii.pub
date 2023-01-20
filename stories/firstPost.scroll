@@ -28,4 +28,5 @@ quote
  - The motto of The Hawai'i Pub
 
 endColumns
-import footer.scroll
+keyboardNav
+scrollFooter
