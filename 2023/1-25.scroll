@@ -1,0 +1,115 @@
+date 1-25-2023
+import header.scroll
+
+# Event of the day
+image photos/mulaney.jpg
+ caption John Mulaney will perform at Blaisdell on February 4th.
+  https://blaisdellcenter.com/event/john-mulaney-from-scratch/ Blaisdell
+
+endSnippet
+
+comment https://archive.org/details/ofhawadictionary00andrrich
+## Word of the day
+ link ../dictionary.txt
+* *Pohu* - adj. Calm; still; quiet, as the wind or sea after a storm.
+
+## University News
+ https://www.hawaii.edu/news/
+- UH President David Lassner discusses updates to university system
+ https://www.hawaiinewsnow.com/video/2023/01/23/uh-president-david-lassner-discusses-updates-university-system/
+
+## Jobs
+* 844 new jobs on Indeed.com including Receptionist $38k and Barista $15hr
+ https://www.indeed.com/jobs?q=&l=Honolulu%2C+HI&fromage=1 Indeed.com
+* 170 new jobs on craigslist including Project Manager $90k
+ https://honolulu.craigslist.org/search/jjj craigslist
+
+## Housing
+* 19 new rental listings on HotPads including: $5,200 for 2BR in Downtown
+ https://hotpads.com/honolulu-hi/apartments-for-rent?maxCreated=24&page=1 HotPads
+
+## Restaurants
+* Google lists 21 restaurants with 4.5+ rating including: Beach House by Roy Yamaguchi and Marugame Udon
+ https://www.google.com/search?q=oahu%20top%20restaurants&tbm=lcl&sxsrf=AJOqlzXPpAGPj6tkwIh0wkytjUG7yMw5Kg%3A1673071194733&ei=Wgq5Y4a4LJb7sAek_7uADA&ved=2ahUKEwie3Mr-47T8AhUEC-wKHfxqCocQwywoAXoECAMQBw&uact=5&oq=oahu+top+restaurants&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAMyBwgAEIAEEA0yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIICAAQCBAeEAoyBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjoECCMQJzoGCAAQBxAeOggIABAIEAcQHjoKCAAQCBAHEB4QClCFA1i_BWC4CGgAcAB4AIABYogBvAOSAQE2mAEAoAEBwAEB&sclient=gws-wiz-local&rlfi=hd:;si:&tbs=lrf:!1m5!1u2!2m2!2m1!2e8!4e2!1m4!1u3!2m2!3m1!1e1!1m4!1u5!2m2!5m1!1sgcid_3american_1restaurant!1m4!1u5!2m2!5m1!1sgcid_3seafood_1restaurant!1m4!1u2!2m2!2m1!1e1!1m4!1u1!2m2!1m1!1e1!1m4!1u1!2m2!1m1!1e2!1m4!1u22!2m2!21m1!1e1!2m1!1e5!2m1!1e1!2m1!1e3!2m4!1e2!5m2!2m1!2e9!3sCg8SDXJhdGluZ19maWx0ZXIgASoCVVM,lf:1,lf_ui:9&rlst=f restaurants with 4.5+ rating
+ https://www.royyamaguchi.com/ Beach House by Roy Yamaguchi
+ https://www.marugameudon.com/ Marugame Udon
+
+## Governor's Office @GovHawaii
+ https://governor.hawaii.gov/ Governor's Office
+ https://twitter.com/GovHawaii @GovHawaii
+comment https://governor.hawaii.gov/category/newsroom/
+* Gov. Green Issues Emergency Proclamation Addressing Homelessness
+ https://governor.hawaii.gov/newsroom/office-of-the-governor-news-release-gov-green-issues-emergency-proclamation-addressing-homelessness/
+
+## Mayor's Office @MayorRickHNL
+ https://www.honolulu.gov/mayor/ Mayor's Office
+ https://twitter.com/MayorRickHNL @MayorRickHNL
+comment https://www.honolulu.gov/cms-csd-menu/site-csd-sitearticles/site-csd-news-listing-cat/18368-csd-news-releases-current-listing.html
+
+## City Council @hnlcitycouncil
+ https://www.honolulucitycouncil.org/ City Council
+ https://twitter.com/hnlcitycouncil @hnlcitycouncil
+* Upcoming meetings
+ https://www.honolulucitycouncil.org/meetings
+
+## Hawai'i Department of Education @HIDOE808
+ https://www.hawaiipublicschools.org/ Hawai'i Department of Education
+ https://twitter.com/HIDOE808 @HIDOE808
+* Calendar
+ https://www.hawaiipublicschools.org/DOE%20Forms/2022-23calendar.pdf Calendar
+
+## Libraries @hsplshigov
+ https://www.librarieshawaii.org/ Libraries
+ https://twitter.com/hsplshigov @hsplshigov
+* There are many events this week in Oahu on the Library calendar
+ https://www.librarieshawaii.org/events/list/?tribe_eventisland=79&hide_subsequent_recurrences=1 Library calendar
+
+## Airport @DOTHawaii
+ https://twitter.com/DOTHawaii @DOTHawaii
+* 200+ planes arriving into HNL today
+ http://72.253.68.19/hnlflights/arrivals.asp arriving
+
+## Police @honolulupolice
+ https://www.honolulupd.org/ Police
+ https://twitter.com/honolulupolice @honolulupolice
+comment https://www.honolulupd.org/news/
+* 10+ arrests in the YESTERDAYS_DATE arrest logs.
+ https://www.honolulupd.org/information/arrest-logs/ arrest logs
+
+## Courts
+ https://www.courts.state.hi.us/
+* 01/31/2023 Oral Argument Before the Hawaii Supreme Court, 5 p.m.
+ https://calendar.ehawaii.gov/calendar/meeting/70214/details.html
+
+## Fire Department
+ https://fire.honolulu.gov/ Fire Department
+comment https://fire.honolulu.gov/media-library/
+
+## Subreddits - Oahu - Honolulu - Hawaii
+ https://www.reddit.com/r/Honolulu/new Honolulu
+ https://www.reddit.com/r/Oahu/new Oahu
+ https://www.reddit.com/r/Hawaii/new Hawaii
+* Posts yesterday included:
+* FYI- Firefighter training at the oil refinery in Kapolei today (Tuesday) at 3 pm. There will be smoke and flames, but there is NO emergency. - 44 upvotes
+ https://www.reddit.com/r/Hawaii/comments/10kiukq/fyi_firefighter_training_at_the_oil_refinery_in/
+
+## Weather
+ https://forecast.weather.gov/MapClick.php?lat=21.3049&lon=-157.8579#.Y7uebezMIdo
+- 🌦 Today: Scattered showers. Partly sunny, with a high near 80. North northeast wind 10 to 13 mph. Chance of precipitation is 40%.
+- 🌧 Tonight: Scattered showers, mainly between 8pm and midnight. Mostly cloudy, with a low around 70. Breezy, with a north northeast wind 14 to 16 mph, with gusts as high as 23 mph. Chance of precipitation is 40%.
+- 🌦 Tomorrow: Isolated showers before noon. Mostly sunny, with a high near 79. Breezy, with a north northeast wind 16 to 21 mph, with gusts as high as 29 mph. Chance of precipitation is 20%.
+- ☁️ Tomorrow Night: Partly cloudy, with a low around 69. Breezy, with a north northeast wind 14 to 21 mph, with gusts as high as 29 mph.
+
+
+## 🏄🏄 Surf Report 🏄🏄
+ https://www.weather.gov/hfo/SRF
+* A long period XL northwest swell (300-320 degree) has peaked and already trending down at NDBC offshore buoys 51001 and 51001. This swell will slowly fade tonight into Thursday.
+
+spaceTable
+ Shore AM(ft) PM(ft)
+ North 25-35 25-35
+ West 18-24 18-24
+ South 1-3 1-3
+ East 2-4 2-4
+
+import footer.scroll
