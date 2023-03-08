@@ -4,3 +4,4 @@ import ../style.scroll
 metaTags
 scrollCssTag
 scrollHeader
+homeLink ../index.html

@@ -1,7 +1,8 @@
 import ../settings.scroll
+homeLink ../index.html
 metaTags
 scrollCssTag
 scrollHeader
-title The Hawai'i Pub
+title The Hawai'i Pub - 2023
 snippets index
 scrollFooter
