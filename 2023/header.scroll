@@ -10,6 +10,7 @@ replaceJs MONTH_DAY dayjs(node.parent.get("date")).format(`MMMM D`)
 metaTags
 scrollCssTag
 scrollHeader
+homeLink ../index.html
 
 groups daily index
 
