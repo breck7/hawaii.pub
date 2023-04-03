@@ -2,6 +2,6 @@ importOnly
 import ../settings.scroll
 import ../style.scroll
 metaTags
-scrollCssTag
-scrollHeader
+gazetteTheme
+gazetteHeader
 homeLink ../index.html

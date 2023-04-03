@@ -8,8 +8,8 @@ replaceJs YESTERDAYS_DATE dayjs(dayjs(node.parent.get("date")).unix() - 24*3600*
 replaceJs MONTH_DAY dayjs(node.parent.get("date")).format(`MMMM D`)
 
 metaTags
-scrollCssTag
-scrollHeader
+gazetteTheme
+gazetteHeader
 homeLink ../index.html
 
 groups daily index
